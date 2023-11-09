@@ -1,5 +1,5 @@
-# Ecommerce-Backend-Application
-# E-Commerce Application
+
+# E-Commerce-Backend-Application
 
 Welcome to the E-Commerce Application! This application allows users to register, login, manage products and categories, place orders, and view order history.
 
